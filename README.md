@@ -30,7 +30,6 @@ Check out my live portfolio: [miasmith81.github.io/mia-smith-luna](https://miasm
 
 ## 📫 Let's Connect!
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miasmith81)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/4064318114)
 
 ---
 ⚡ Fun fact: I love creating both beautiful designs and robust functionality!
