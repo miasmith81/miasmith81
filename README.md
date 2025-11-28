@@ -21,9 +21,12 @@ Passionate web developer and designer focused on creating beautiful, functional 
 ![Mia's GitHub stats](https://github-readme-stats.vercel.app/api?username=miasmith81&show_icons=true&theme=radical)
 
 ## 🏆 Experience Highlights
-- **The Last Mile** (2021-2023): Completed intensive web development program
-- **Code The Dream** (2025-2026): Currently developing team collaboration skills
-- **Freelance Developer** (2025): Built custom business website for StrayDog Syndications LLC
+- **Freelance Developer** (2025): Partner at StrayDog Syndications LLC and the Second Story Initiative—leveraging technology to bridge the "Digital Cliff" for justice-impacted individuals.
+- **Justice Through Code Columbia University** (2025-2026): Currently in self directed On-Ramp course then start AI Engineering Principals intensive course.
+- **Code The Dream** (2025): Graduated Intro to Programing bootcamp.
+- **The Last Mile** (2021-2023): Completed intensive Web Development program.
+
+ 
 
 ## 🌐 Portfolio
 Check out my live portfolio: [miasmith81.github.io/mia-smith-luna](https://miasmith81.github.io/mia-smith-luna/)
