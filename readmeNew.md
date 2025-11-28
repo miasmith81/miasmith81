@@ -1,16 +1,18 @@
+# Mia Smith - GitHub Profile
+
 <div align="center">
 
 <!-- HEADER SECTION -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="IMAGE_1_URL_HERE">
-  <source media="(prefers-color-scheme: light)" srcset="IMAGE_1_URL_HERE">
-  <img alt="Second Story Initiative" src="IMAGE_1_URL_HERE" width="400" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StrayDogSyn/StrayDogSyn/main/image/README/StrayDog%20Syndications%20LLC%20(Tag%20(US)).png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StrayDogSyn/StrayDogSyn/main/image/README/StrayDog%20Syndications%20LLC%20(Tag%20(US)).png">
+  <img alt="StrayDog Syndications LLC" src="https://raw.githubusercontent.com/StrayDogSyn/StrayDogSyn/main/image/README/StrayDog%20Syndications%20LLC%20(Tag%20(US)).png" width="480" />
 </picture>
 
 <h1>Mia Smith</h1>
 
 <p>
-  <strong>Web Developer</strong> | <strong>Designer</strong> | <strong>Justice Reform Advocate</strong>
+  <strong>Freelance Software Developer Web Development Consulting</strong> | <strong>Designer</strong> | <strong>Justice Reform Advocate</strong>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Creating+Beautiful+Web+Experiences;MERN+Stack+Developer;Passionate+About+Social+Impact;Building+the+Future+with+Code)](https://github.com/miasmith81)
