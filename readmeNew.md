@@ -27,11 +27,26 @@
   <a href="https://github.com/miasmith81">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="32" />
   </a>
+  <a href="https://linkedin.com/in/mia-petross">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="32" />
+  </a>
   <a href="https://miasmith81.github.io/mia-smith-luna/">
     <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" height="32" />
   </a>
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="32" />
+  </a>
+</p>
+
+<p>
+  <a href="https://www.codewars.com/users/miasmith81">
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="CodeWars" height="32" />
+  </a>
+  <a href="https://leetcode.com/miasmith81">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" height="32" />
+  </a>
+  <a href="https://www.hackerrank.com/mismitha3261">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" height="32" />
   </a>
 </p>
 
