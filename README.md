@@ -179,7 +179,7 @@ Dynamic application leveraging Open API integration for real-time data retrieval
 
 ---
 
-## <img src="https://cdn.simpleicons.org/codechef/355E3B" width="26" height="26" alt="Achievements" /> Competitive Coding & Continuous Learning
+## <img src="https://cdn.simpleicons.org/codechef/FF69B4" width="26" height="26" alt="Achievements" /> Competitive Coding & Continuous Learning
 
 <div align="center">
 
@@ -217,7 +217,7 @@ Dynamic application leveraging Open API integration for real-time data retrieval
 </tr>
 </table>
 
-### <img src="https://cdn.simpleicons.org/udemy/355E3B" width="24" height="24" alt="Learning" /> Learning Platforms
+### <img src="https://cdn.simpleicons.org/udemy/FF69B4" width="24" height="24" alt="Learning" /> Learning Platforms
 
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
 ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
@@ -255,7 +255,7 @@ Dynamic application leveraging Open API integration for real-time data retrieval
 <div align="center">
   
 <!-- GitHub Streak Statistics -->
-<img src="https://streak-stats.demolab.com/?user=miasmith81&hide_border=true&background=0d1117&stroke=355E3B&ring=355E3B&fire=FF6B35&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=355E3B&sideLabels=355E3B&dates=8b949e"
+<img src="https://streak-stats.demolab.com/?user=miasmith81&hide_border=true&background=0d1117&stroke=FF69B4&ring=FF69B4&fire=FF6B35&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=FF69B4&sideLabels=FF69B4&dates=8b949e"
        alt="Contribution Streak"
        title="Displays current and longest contribution streak"
        width="400" height="180"
@@ -287,7 +287,7 @@ Dynamic application leveraging Open API integration for real-time data retrieval
     title="Last commit timestamp"
     style="display: inline-block; margin: 5px; vertical-align: middle;" />
 
-<img src="https://img.shields.io/github/repo-size/miasmith81/miasmith81?style=for-the-badge&logo=github&logoColor=white&color=355E3B&labelColor=1e1e1e"
+<img src="https://img.shields.io/github/repo-size/miasmith81/miasmith81?style=for-the-badge&logo=github&logoColor=white&color=FF69B4&labelColor=1e1e1e"
        alt="Repo Size"
        title="Repository size"
        style="display: inline-block; margin: 5px; vertical-align: middle;" />
@@ -333,11 +333,11 @@ Dynamic application leveraging Open API integration for real-time data retrieval
 
 ---
 
-## <img src="https://cdn.simpleicons.org/starship/355E3B" width="26" height="26" alt="Initiative" /> The Second Story Initiative
+## <img src="https://cdn.simpleicons.org/starship/FF69B4" width="26" height="26" alt="Initiative" /> The Second Story Initiative
 
 <div align="center">
 
-[![Second Story](https://img.shields.io/badge/Second_Story_Initiative-Justice_Reform_Technology-355E3B?style=for-the-badge&labelColor=1e1e1e)](https://straydog-secondstory.org)
+[![Second Story](https://img.shields.io/badge/Second_Story_Initiative-Justice_Reform_Technology-FF69B4?style=for-the-badge&labelColor=1e1e1e)](https://straydog-secondstory.org)
 
 **Mission:** Bridging the "Digital Cliff" for justice-impacted individuals through technology education, mentorship, and career pathways.
 
@@ -353,7 +353,7 @@ Dynamic application leveraging Open API integration for real-time data retrieval
 
 ---
 
-## <img src="https://cdn.simpleicons.org/handshake/355E3B" width="26" height="26" alt="Connect" /> Let's Connect
+## <img src="https://cdn.simpleicons.org/handshake/FF69B4" width="26" height="26" alt="Connect" /> Let's Connect
 
 <div align="center">
 
@@ -394,6 +394,6 @@ I'm actively seeking roles where I can contribute to building innovative, scalab
   <strong>© 2025 Mia Petross | StrayDog Syndications LLC | Second Story Initiative</strong>
 </p>
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-355E3B.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-FF69B4.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
 </div>
