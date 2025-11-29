@@ -357,9 +357,9 @@ I'm actively seeking roles where I can contribute to building innovative, scalab
 
 **Ready to discuss how I can contribute to your technical team?**
 
-[![Email](https://img.shields.io/badge/Email-eHunter%40straydog--secondstory.org-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eHunter@straydog-secondstory.org)
+[![Email](https://img.shields.io/badge/Email-mismitha326@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eHunter@straydog-secondstory.org)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mia_Petross-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eric-petross-766a08330)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://straydogsyn.github.io/Learner-Files-v3.5/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://miasmith81.github.io/mia-smith-luna/)
 
 </div>
 
