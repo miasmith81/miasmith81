@@ -216,6 +216,14 @@ Dynamic application leveraging Open API integration for real-time data retrieval
 </tr>
 </table>
 
+### <img src="https://cdn.simpleicons.org/udemy/355E3B" width="24" height="24" alt="Learning" /> Learning Platforms
+
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
+![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
+![Frontend Masters](https://img.shields.io/badge/Frontend_Masters-C02B3A?style=for-the-badge&logo=frontendmasters&logoColor=white)
+
+</div>
+
 ---
 
 ## <img src="https://cdn.simpleicons.org/github/FF69B4" width="26" height="26" alt="Analytics" /> GitHub Analytics
