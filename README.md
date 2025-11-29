@@ -119,15 +119,24 @@ Professional business website for StrayDog Syndications LLC featuring modern des
 
 ---
 
-### Interactive JavaScript Projects
+### Frontend Web Development Projects
 
 [![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miasmith81)
 
-Collection of interactive web applications including games, calculators, and utility tools demonstrating JavaScript fundamentals.
+Collection of frontend development projects demonstrating HTML, CSS, and modern layout techniques from foundational to advanced concepts.
 
-**Technologies:** Vanilla JavaScript · ES6+ · DOM Manipulation · LocalStorage
+**Technologies:** HTML5 · CSS3 · Flexbox · Grid Layout · Responsive Design
 
-**Key Features:** Event handling · State management · Data persistence · Clean code architecture
+**Projects Include:**
+
+- **About Me Page** — Personal introduction page showcasing HTML fundamentals and semantic markup ([View Code](https://github.com/miasmith81/HTML-Mini-Project--About-Me-Page.git))
+- **Forms & Tables** — Interactive forms and data tables demonstrating HTML form elements and table structures ([View Code](https://github.com/miasmith81/Forms---Tables-Assignment.git))
+- **CSS Selectors** — Advanced styling techniques using CSS selectors, specificity, and cascade ([View Code](https://github.com/miasmith81/CSS-Basics---Selectors-Assignment.git))
+- **Layout & Positioning** — CSS positioning strategies including static, relative, absolute, and fixed positioning ([View Code](https://github.com/miasmith81/Layout---Positioning-Assignment.git))
+- **Styled About Me** — Enhanced personal page combining HTML structure with custom CSS styling ([View Code](https://github.com/miasmith81/CSS-Mini-Project-Styled-About-Me-Assignment.git))
+- **Flexbox Fundamentals** — Modern layout patterns using CSS Flexbox for responsive, flexible designs ([View Code](https://github.com/miasmith81/Flexbox-Fundamentals-Assignment.git))
+
+**Key Features:** Semantic HTML · CSS best practices · Responsive layouts · Modern design patterns
 
 ---
 
