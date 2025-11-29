@@ -64,7 +64,7 @@
 ![Availability](https://img.shields.io/badge/Freelance-Available-28a745?style=for-the-badge&labelColor=1e1e1e)
 
 <p align="center">
-Passionate web developer and designer focused on creating beautiful, functional websites. Currently advancing my skills through <strong>Code The Dream's</strong> rigorous MERN stack development program while building real-world applications that make a difference.
+Passionate web developer and designer focused on creating beautiful, functional websites. Currently advancing my skills through <strong>Justice Through Code Columbia University</strong> in a rigorous python development program while building real-world applications that make a difference.
 </p>
 
 <p align="center">
@@ -80,6 +80,8 @@ Partner at <strong>StrayDog Syndications LLC</strong> and the <strong>Second Sto
 <div align="center">
 
 > *"Building beautiful, accessible web experiences that create meaningful impact—one line of code at a time."*
+
+**Second Story Initiative** — Technology-driven pathways for justice-impacted individuals
 
 **Combining creativity, technical excellence, and social impact through technology**
 
