@@ -108,7 +108,8 @@ Modern, responsive portfolio showcasing web development projects with glassmorph
 
 ### StrayDog Syndications Website
 
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miasmith81)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF69B4?style=for-the-badge&logo=vercel&logoColor=white)](https://www.straydog-syndications-llc.com)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StrayDogSyn/StrayDog_Syndicate_LLC.git)
 
 Professional business website for StrayDog Syndications LLC featuring modern design patterns and user-friendly navigation.
 
