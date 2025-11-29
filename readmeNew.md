@@ -312,3 +312,71 @@ Dynamic application leveraging Open API integration for real-time data retrieval
 - **React Fundamentals** — The Last Mile (2023)
 - **Web Development Fundamentals (WDF)** — The Last Mile Program (2021-2022)
 
+</details>
+
+---
+
+## <img src="https://cdn.simpleicons.org/starship/355E3B" width="26" height="26" alt="Initiative" /> The Second Story Initiative
+
+<div align="center">
+
+[![Second Story](https://img.shields.io/badge/Second_Story_Initiative-Justice_Reform_Technology-355E3B?style=for-the-badge&labelColor=1e1e1e)](https://straydog-secondstory.org)
+
+**Mission:** Bridging the "Digital Cliff" for justice-impacted individuals through technology education, mentorship, and career pathways.
+
+**Programs:**
+
+<sub>Applied AI Solutions Engineering pathways | Full-stack development training with real-world projects | Professional mentorship from industry experts | Community-driven open-source initiatives</sub>
+
+**Mentorship & Support:**
+
+<sub>The Last Mile — Web Development Fundamentals | Justice Through Code — Applied AI Solutions Engineering | Tech industry professionals providing guidance and opportunities</sub>
+
+</div>
+
+---
+
+## <img src="https://cdn.simpleicons.org/handshake/355E3B" width="26" height="26" alt="Connect" /> Let's Connect
+
+<div align="center">
+
+### Open to Opportunities
+
+**Full-Stack Development** • **AI Integration** • **Technical Development** • **Justice Reform Technology**
+
+I'm actively seeking roles where I can contribute to building innovative, scalable solutions that create positive social impact.
+
+### What I Bring to the Table
+
+✅ Hands-on experience with modern web technologies and AI integration   
+✅ Practical experience deploying production applications  
+✅ Commitment to continuous learning and professional growth  
+✅ Passion for using technology to create meaningful social change
+
+<br>
+
+**Ready to discuss how I can contribute to your technical team?**
+
+[![Email](https://img.shields.io/badge/Email-eHunter%40straydog--secondstory.org-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eHunter@straydog-secondstory.org)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mia_Petross-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eric-petross-766a08330)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://straydogsyn.github.io/Learner-Files-v3.5/)
+
+</div>
+
+---
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21,23,24,27,28&height=100&section=footer&animation=twinkling)
+
+<p align="center">
+  <sub>Built with passion for clean code, innovative solutions, and social justice</sub>
+</p>
+
+<p align="center">
+  <strong>© 2025 Mia Petross | StrayDog Syndications LLC | Second Story Initiative</strong>
+</p>
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-355E3B.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+
+</div>
