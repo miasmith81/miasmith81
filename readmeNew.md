@@ -231,20 +231,36 @@ Dynamic application leveraging Open API integration for real-time data retrieval
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=miasmith81&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF69B4&icon_color=FF69B4&text_color=c9d1d9"
-     alt="GitHub Statistics"
-     width="495" height="195"
-     style="display: block; margin: 10px auto;" />
+<!-- GitHub Profile Summary Cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=miasmith81&theme=github_dark"
+       alt="GitHub Statistics"
+       title="Shows total stars, commits, PRs, issues and contributions"
+       width="400" height="180"
+       style="display: block; margin: 0 auto; max-width: 100%; height: auto;" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miasmith81&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF69B4&text_color=c9d1d9"
-     alt="Top Languages"
-     width="495" height="195"
-     style="display: block; margin: 10px auto;" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miasmith81&theme=github_dark"
+       alt="Repository Language Distribution"
+       title="Displays languages used across all repositories"
+       width="400" height="180"
+       style="display: block; margin: 10px auto; max-width: 100%; height: auto;" />
 
-<img src="https://streak-stats.demolab.com/?user=miasmith81&hide_border=true&background=0d1117&stroke=FF69B4&ring=FF69B4&fire=FF6B35&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=FF69B4&sideLabels=FF69B4&dates=8b949e"
-     alt="Contribution Streak"
-     width="495" height="195"
-     style="display: block; margin: 10px auto;" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miasmith81&theme=github_dark"
+       alt="Commit Language Breakdown"
+       title="Shows languages by commit frequency"
+       width="400" height="180"
+       style="display: block; margin: 0 auto; max-width: 100%; height: auto;" />
+
+</div>
+
+<div align="center">
+  
+<!-- GitHub Streak Statistics -->
+<img src="https://streak-stats.demolab.com/?user=miasmith81&hide_border=true&background=0d1117&stroke=355E3B&ring=355E3B&fire=FF6B35&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=355E3B&sideLabels=355E3B&dates=8b949e"
+       alt="Contribution Streak"
+       title="Displays current and longest contribution streak"
+       width="400" height="180"
+       style="display: block; margin: 10px auto; max-width: 100%; height: auto;" />
+
 
 </div>
 
@@ -252,7 +268,7 @@ Dynamic application leveraging Open API integration for real-time data retrieval
   <summary align="center"><b>🏆 GitHub Achievement Trophies</b></summary>
   <br>
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=miasmith81&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"
+    <img src="https://github-profile-trophy.vercel.app/?username=miasmith81&theme=radical&no-frame=true&no-             bg=true&margin-w=4&row=2&column=4"
          alt="Profile Trophies"
          width="800" />
   </p>
