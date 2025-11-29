@@ -128,6 +128,17 @@ Collection of interactive web applications including games, calculators, and uti
 
 **Key Features:** Event handling · State management · Data persistence · Clean code architecture
 
+### Luna Open API Project
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF69B4?style=for-the-badge&logo=vercel&logoColor=white)](https://miasmith81.github.io/Luna-Open-API-Project/)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miasmith81/Luna-Open-API-Project)
+
+Dynamic application leveraging Open API integration for real-time data retrieval with elegant UI and responsive design.
+
+**Technologies:** JavaScript ES6+ · REST API · HTML5 · CSS3 · Async/Await
+
+**Key Features:** Real-time API integration · Dynamic content generation · Responsive design · Error handling · Clean UI/UX
+
 </div>
 
 ---
