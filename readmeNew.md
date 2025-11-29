@@ -178,6 +178,46 @@ Dynamic application leveraging Open API integration for real-time data retrieval
 
 ---
 
+## <img src="https://cdn.simpleicons.org/codechef/355E3B" width="26" height="26" alt="Achievements" /> Competitive Coding & Continuous Learning
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### <img src="https://cdn.simpleicons.org/codewars/B1361E" width="28" height="28" alt="CodeWars" /> CodeWars
+
+[![CodeWars Badge](https://img.shields.io/badge/Rank-6_kyu-B1361E?style=for-the-badge&logo=codewars&logoColor=white&labelColor=1e1e1e)](https://www.codewars.com/users/miasmith81)
+
+[![CodeWars](https://github.r2v.ch/codewars?user=miasmith81&stroke=%23B1361E&theme=dark)](https://www.codewars.com/users/miasmith81)
+
+**Focus:** JavaScript Fundamentals
+
+</td>
+<td align="center" width="33%">
+
+### <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="28" height="28" alt="LeetCode" /> LeetCode
+
+[![LeetCode Badge](https://img.shields.io/badge/Profile-Active-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1e1e1e)](https://leetcode.com/miasmith81)
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/miasmith81?theme=dark&font=JetBrains%20Mono&ext=contest&border=0&radius=10)](https://leetcode.com/miasmith81)
+
+**Focus:** Fundamental
+
+</td>
+<td align="center" width="33%">
+
+### <img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="28" height="28" alt="HackerRank" /> HackerRank
+
+**Focus:** Problem Solving
+
+</td>
+</tr>
+</table>
+
+---
+
 ## <img src="https://cdn.simpleicons.org/github/FF69B4" width="26" height="26" alt="Analytics" /> GitHub Analytics
 
 <div align="center">
