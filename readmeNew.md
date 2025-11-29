@@ -259,11 +259,21 @@ Dynamic application leveraging Open API integration for real-time data retrieval
 
 <div align="center">
 
+<!-- Shields.io badges -->
 <img src="https://img.shields.io/github/commit-activity/m/miasmith81/miasmith81?style=for-the-badge&logo=github&logoColor=white&color=FF69B4&labelColor=1e1e1e&label=Monthly%20Commits"
-     alt="Monthly Commits" />
+    alt="Monthly Commits"
+    title="Monthly commit activity"
+    style="display: inline-block; margin: 5px; vertical-align: middle;" />
 
 <img src="https://img.shields.io/github/last-commit/miasmith81/miasmith81?style=for-the-badge&logo=github&logoColor=white&color=FF69B4&labelColor=1e1e1e&label=Last%20Commit"
-     alt="Last Commit" />
+    alt="Last Commit" 
+    title="Last commit timestamp"
+    style="display: inline-block; margin: 5px; vertical-align: middle;" />
+
+<img src="https://img.shields.io/github/repo-size/miasmith81/miasmith81?style=for-the-badge&logo=github&logoColor=white&color=355E3B&labelColor=1e1e1e"
+       alt="Repo Size"
+       title="Repository size"
+       style="display: inline-block; margin: 5px; vertical-align: middle;" />
 
 </div>
 
