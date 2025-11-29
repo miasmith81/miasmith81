@@ -35,7 +35,7 @@
   <a href="https://miasmith81.github.io/mia-smith-luna/">
     <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" height="32" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:mismitha326@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="32" />
   </a>
 </p>
