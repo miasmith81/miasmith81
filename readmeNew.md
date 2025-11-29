@@ -128,6 +128,8 @@ Collection of interactive web applications including games, calculators, and uti
 
 **Key Features:** Event handling · State management · Data persistence · Clean code architecture
 
+---
+
 ### Luna Open API Project
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-FF69B4?style=for-the-badge&logo=vercel&logoColor=white)](https://miasmith81.github.io/Luna-Open-API-Project/)
