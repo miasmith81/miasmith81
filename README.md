@@ -9,7 +9,7 @@
   <img alt="StrayDog Syndications LLC" src="https://raw.githubusercontent.com/StrayDogSyn/StrayDogSyn/main/image/README/StrayDog%20Syndications%20LLC%20(Tag%20(US)).png" width="480" />
 </picture>
 
-<h1>Mia Smith</h1>
+<h1>Mia "Petross" Smith</h1>
 
 <p>
   <strong>Freelance Software Developer Web Development Consulting</strong> | <strong>Designer</strong> | <strong>Justice Reform Advocate</strong>
