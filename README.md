@@ -1,4 +1,4 @@
-# Mia "Petross" Smith - GitHub Profile
+# Mia Smith-Petross - GitHub Profile
 
 <div align="center">
 
@@ -9,7 +9,7 @@
   <img alt="StrayDog Syndications LLC" src="https://raw.githubusercontent.com/StrayDogSyn/StrayDogSyn/main/image/README/StrayDog%20Syndications%20LLC%20(Tag%20(US)).png" width="480" />
 </picture>
 
-<h1>Mia "Petross" Smith</h1>
+<h1>Mia Smith-Petross</h1>
 
 <p>
   <strong>Freelance Software Developer Web Development Consulting</strong> | <strong>Designer</strong> | <strong>Justice Reform Advocate</strong>
@@ -429,7 +429,7 @@ I'm actively seeking roles where I can contribute to building innovative, scalab
 </p>
 
 <p align="center">
-  <strong>© 2025 Mia Petross | StrayDog Syndications LLC | Second Story Initiative</strong>
+  <strong>© 2025 Mia Smith-Petross | StrayDog Syndications LLC | Second Story Initiative</strong>
 </p>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-FF69B4.svg?style=flat-square)](https://opensource.org/licenses/MIT)
