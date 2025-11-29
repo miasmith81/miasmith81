@@ -285,11 +285,6 @@ Dynamic application leveraging Open API integration for real-time data retrieval
 
 ### <img src="https://cdn.simpleicons.org/googlescholar/FF69B4" width="22" height="22" alt="Education" /> Current Programs
 
-**MERN Stack Development**  
-*Code The Dream* | **2025-2026** | **In Progress**
-
-![Program Progress](https://img.shields.io/badge/Program_Progress-Active_Student-FF69B4?style=for-the-badge&logo=react&logoColor=white&labelColor=1e1e1e)
-
 **AI Engineering Principles**  
 *Justice Through Code - Columbia University* | **2025-2026** | **In Progress**
 
