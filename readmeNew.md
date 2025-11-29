@@ -47,8 +47,8 @@
   <a href="https://leetcode.com/miasmith81">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" height="32" />
   </a>
-  <a href="https://www.hackerrank.com/profile/mismitha3261">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" height="32" />
+  <a href="https://www.hackerrank.com/mismitha3261">
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" height="32" />
   </a>
 </p>
 
