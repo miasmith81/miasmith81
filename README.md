@@ -68,7 +68,7 @@ Passionate web developer and designer focused on creating beautiful, functional 
 </p>
 
 <p align="center">
-Partner at <strong>StrayDog Syndications LLC</strong> and the <strong>Second Story Initiative</strong>—leveraging technology to bridge the "Digital Cliff" for justice-impacted individuals and create pathways to tech careers.
+Partner at <strong>StrayDog Syndications LLC</strong> and the <strong>Second Story Initiative</strong>—leveraging technology to bridge the "Digital Cliff" for justice-impacted individuals.
 </p>
 
 </div>
