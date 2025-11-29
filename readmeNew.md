@@ -299,7 +299,7 @@ Dynamic application leveraging Open API integration for real-time data retrieval
 <br>
 
 - **Introduction to Programming Bootcamp** — Code The Dream (2025)
-- **Web Development Fundamentals (WDF)** — The Last Mile Program (2021-2023)
+- **Web Development Fundamentals (WDF)** — The Last Mile Program (2021-2022)
 
 </details>
 
@@ -307,6 +307,8 @@ Dynamic application leveraging Open API integration for real-time data retrieval
 <summary><b><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="18" height="18" alt="JavaScript" /> JavaScript & Frontend</b></summary>
 <br>
 
-- **Modern JavaScript: ES6 and Beyond** — Self-Study (2024-2025)
-- **React Fundamentals** — Code The Dream Curriculum (2025)
-- **Responsive Web Design** — The
+- **Modern JavaScript: ES6 and Beyond** — Self-Study (2025)
+- **Responsive Web Design** — Code The Dream Bootcamp (2025)
+- **React Fundamentals** — The Last Mile (2023)
+- **Web Development Fundamentals (WDF)** — The Last Mile Program (2021-2022)
+
