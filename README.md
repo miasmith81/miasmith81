@@ -79,7 +79,7 @@ Partner at <strong>StrayDog Syndications LLC</strong> and the <strong>Second Sto
 
 <div align="center">
 
-> *"Building beautiful, accessible web experiences that create meaningful impact—one line of code at a time."*
+> *"Using AI and technology to create meaningful impact in justice reform while demonstrating technical excellence and building sustainable, ethical solutions."*
 
 **Second Story Initiative** — Technology-driven pathways for justice-impacted individuals
 
