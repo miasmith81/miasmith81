@@ -125,16 +125,12 @@ Collection of frontend development projects demonstrating HTML, CSS, and modern 
 
 **Technologies:** HTML5 · CSS3 · Flexbox · Grid Layout · Responsive Design
 
----
-
 #### About Me Page
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-FF69B4?style=for-the-badge&logo=vercel&logoColor=white)](https://miasmith81.github.io/HTML-Mini-Project--About-Me-Page/)
 [![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miasmith81/HTML-Mini-Project--About-Me-Page.git)
 
 Personal introduction page showcasing HTML fundamentals and semantic markup.
-
----
 
 #### Forms & Tables Assignment
 
@@ -143,16 +139,12 @@ Personal introduction page showcasing HTML fundamentals and semantic markup.
 
 Interactive forms and data tables demonstrating HTML form elements and table structures.
 
----
-
 #### CSS Basics - Selectors Assignment
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-FF69B4?style=for-the-badge&logo=vercel&logoColor=white)](https://miasmith81.github.io/CSS-Basics---Selectors-Assignment/)
 [![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miasmith81/CSS-Basics---Selectors-Assignment.git)
 
 Advanced styling techniques using CSS selectors, specificity, and cascade.
-
----
 
 #### Layout & Positioning Assignment
 
@@ -161,16 +153,12 @@ Advanced styling techniques using CSS selectors, specificity, and cascade.
 
 CSS positioning strategies including static, relative, absolute, and fixed positioning.
 
----
-
 #### CSS Mini Project - Styled About Me
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-FF69B4?style=for-the-badge&logo=vercel&logoColor=white)](https://miasmith81.github.io/CSS-Mini-Project-Styled-About-Me-Assignment/)
 [![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miasmith81/CSS-Mini-Project-Styled-About-Me-Assignment.git)
 
 Enhanced personal page combining HTML structure with custom CSS styling.
-
----
 
 #### Flexbox Fundamentals Assignment
 
