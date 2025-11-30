@@ -302,12 +302,11 @@ Dynamic application leveraging Open API integration for real-time data retrieval
 
 </div>
 
-<!-- GitHub Profile Trophies from YOUR NEW Vercel deployment -->
 <details>
   <summary align="center"><b>🏆 GitHub Achievement Trophies</b></summary>
   <br>
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=miasmith81&theme=darkhub&no-frame=true&no-bg=true&v=2"
+    <img src="https://github-profile-trophy.vercel.app/?username=miasmith81&theme=dracula&no-frame=true&no-bg=true&v=2"
          alt="Profile Trophies"
          title="Displays earned GitHub profile achievements"
          width="800" height="180"
