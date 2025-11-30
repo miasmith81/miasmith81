@@ -264,6 +264,26 @@ Dynamic application leveraging Open API integration for real-time data retrieval
 </div>
 
 ---
+test
+## <img src="https://cdn.simpleicons.org/github/FF69B4" width="26" height="26" alt="Analytics" /> GitHub Analytics
+
+<div align="center">
+
+<!-- GitHub Stats from YOUR Vercel deployment -->
+<img src="https://github-readme-stats-dci63y3i3-eric-hunter-petross-projects.vercel.app/api?username=miasmith81&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF69B4&icon_color=FF69B4&text_color=c9d1d9"
+     alt="GitHub Stats"
+     width="400"
+     style="display: inline-block; margin: 10px auto;" />
+
+<!-- Top Languages from YOUR Vercel deployment -->
+<img src="https://github-readme-stats-dci63y3i3-eric-hunter-petross-projects.vercel.app/api/top-langs/?username=miasmith81&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF69B4&text_color=c9d1d9"
+     alt="Top Languages"
+     width="400"
+     style="display: inline-block; margin: 10px auto;" />
+
+</div>
+test
+---
 
 ## <img src="https://cdn.simpleicons.org/github/FF69B4" width="26" height="26" alt="Analytics" /> GitHub Analytics
 
@@ -302,11 +322,12 @@ Dynamic application leveraging Open API integration for real-time data retrieval
 
 </div>
 
+<!-- GitHub Profile Trophies from YOUR NEW Vercel deployment -->
 <details>
   <summary align="center"><b>🏆 GitHub Achievement Trophies</b></summary>
   <br>
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=miasmith81&theme=onedark&no-frame=true&no-        bg=true&margin-w=4&row=2&column=4"
+    <img src="https://github-profile-trophy-gh5tkmb2i-mia-mausi-smiths-projects.vercel.app/?                       username=miasmith81&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"
     alt="Profile Trophies"
     width="800" />
   </p>
