@@ -307,7 +307,7 @@ Dynamic application leveraging Open API integration for real-time data retrieval
   <summary align="center"><b>🏆 GitHub Achievement Trophies</b></summary>
   <br>
   <p align="center">
-    <img src="[![trophy](https://github-profile-trophy.vercel.app/?miasmith81=ryo-ma&theme=dracula)]               (https://github.com/ryo-ma/github-profile-trophy)"
+    <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=miasmith81ryo-ma&theme=dracula)]             "
     alt="Profile Trophies"
     width="800" />
   </p>
