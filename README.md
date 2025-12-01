@@ -1,4 +1,4 @@
-# Mia Smith - GitHub Profile
+# Mia Smith-Petross || GitHub Profile
 
 <div align="center">
 
