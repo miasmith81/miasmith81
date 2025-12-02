@@ -339,7 +339,7 @@ Dynamic application leveraging Open API integration for real-time data retrieval
 ### Completed Programs
 
 <details open>
-<summary><b><img src="https://cdn.simpleicons.org/html5/E34F26" width="18" height="18" alt="Web Dev" /> Web Development</b></summary>
+<summary><b><img src="https://cdn.simpleicons.org/html5/E34F26" width="18" height="18" alt="Web Dev" /> Web Development</b></summary><sub>(click to expand)</sub>
 <br>
 
 - **Introduction to Programming Bootcamp** — Code The Dream (2025)
@@ -348,7 +348,7 @@ Dynamic application leveraging Open API integration for real-time data retrieval
 </details>
 
 <details>
-<summary><b><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="18" height="18" alt="JavaScript" /> JavaScript & Frontend</b></summary>
+<summary><b><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="18" height="18" alt="JavaScript" /> JavaScript & Frontend</b></summary><sub>(click to expand)</sub>
 <br>
 
 - **Modern JavaScript: ES6 and Beyond** — Self-Study (2025)
