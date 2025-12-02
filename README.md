@@ -288,7 +288,7 @@ Dynamic application leveraging Open API integration for real-time data retrieval
   <tr>
     <!-- BOTTOM LEFT: Top Languages Donut Chart -->
     <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=miasmith81&theme=github_dark&utcOffset=-5" alt="Productive Time" width="100%" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=miasmith81&theme=github_dracula&utcOffset=-5" alt="Productive Time" width="100%" />
     </td>
     <!-- BOTTOM RIGHT: Language Distribution Compact Bar -->
     <td align="center" width="50%">
