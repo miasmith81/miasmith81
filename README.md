@@ -288,9 +288,7 @@ Dynamic application leveraging Open API integration for real-time data retrieval
   <tr>
     <!-- BOTTOM LEFT: Top Languages Donut Chart -->
     <td align="center" width="50%">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=miasmith81&layout=donut&hide_border=true&bg_color=0d1117&title_color=FF69B4&text_color=c9d1d9&langs_count=6"
-           alt="Top Languages by Repository"
-           width="400" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=miasmith81&theme=github_dark&utcOffset=-5" alt="Productive Time" width="100%" />
     </td>
     <!-- BOTTOM RIGHT: Language Distribution Compact Bar -->
     <td align="center" width="50%">
