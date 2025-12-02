@@ -310,7 +310,7 @@ Dynamic application leveraging Open API integration for real-time data retrieval
 
 <!-- TROPHIES: Collapsible Section for Graceful Degradation -->
 <details>
-  <summary align="center"><b>🏆 GitHub Achievement Trophies</b> <sub>(click to expand)</sub></summary>
+  <summary align="center"><b>🏆 GitHub Achievement Trophies</b><sub>(click to expand)</sub></summary>
   <br>
   <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=miasmith81&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"
@@ -337,7 +337,7 @@ Dynamic application leveraging Open API integration for real-time data retrieval
 ### Completed Programs
 
 <details open>
-<summary><b><img src="https://cdn.simpleicons.org/html5/E34F26" width="18" height="18" alt="Web Dev" /> Web Development</b></summary><sub>(click to expand)</sub>
+<summary><b><img src="https://cdn.simpleicons.org/html5/E34F26" width="18" height="18" alt="Web Dev" /> Web Development</b><sub>(click to expand)</sub></summary>
 <br>
 
 - **Introduction to Programming Bootcamp** — Code The Dream (2025)
@@ -346,7 +346,7 @@ Dynamic application leveraging Open API integration for real-time data retrieval
 </details>
 
 <details>
-<summary><b><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="18" height="18" alt="JavaScript" /> JavaScript & Frontend</b></summary><sub>(click to expand)</sub>
+<summary><b><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="18" height="18" alt="JavaScript" /> JavaScript & Frontend</b><sub>(click to expand)</sub></summary>
 <br>
 
 - **Modern JavaScript: ES6 and Beyond** — Self-Study (2025)
