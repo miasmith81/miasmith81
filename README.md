@@ -265,7 +265,7 @@ Dynamic application leveraging Open API integration for real-time data retrieval
 
 ---
 
-markdown## <img src="https://cdn.simpleicons.org/github/355E3B" width="26" height="26" alt="Analytics" /> GitHub Analytics
+<img src="https://cdn.simpleicons.org/github/355E3B" width="26" height="26" alt="Analytics" /> GitHub Analytics
 
 <div align="center">
 
@@ -280,7 +280,7 @@ markdown## <img src="https://cdn.simpleicons.org/github/355E3B" width="26" heigh
     </td>
     <!-- TOP RIGHT: Contribution Streak Card -->
     <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=miasmith81&hide_border=true&background=0d1117&stroke=355E3B&ring=355E3B&fire=FF6B35&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=355E3B&sideLabels=355E3B&dates=8b949e"
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=StrayDogSyn&hide_border=true&background=0d1117&stroke=355E3B&ring=355E3B&fire=FF6B35&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=355E3B&sideLabels=355E3B&dates=8b949e"
            alt="Contribution Streak"
            width="400" />
     </td>
@@ -288,13 +288,13 @@ markdown## <img src="https://cdn.simpleicons.org/github/355E3B" width="26" heigh
   <tr>
     <!-- BOTTOM LEFT: Top Languages Donut Chart -->
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miasmith81&layout=donut&hide_border=true&bg_color=0d1117&title_color=355E3B&text_color=c9d1d9&langs_count=6"
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrayDogSyn&layout=donut&hide_border=true&bg_color=0d1117&title_color=355E3B&text_color=c9d1d9&langs_count=6"
            alt="Top Languages by Repository"
            width="400" />
     </td>
     <!-- BOTTOM RIGHT: Language Distribution Compact Bar -->
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miasmith81&layout=compact&hide_border=true&bg_color=0d1117&title_color=355E3B&text_color=c9d1d9&langs_count=8&card_width=400"
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrayDogSyn&layout=compact&hide_border=true&bg_color=0d1117&title_color=355E3B&text_color=c9d1d9&langs_count=8&card_width=400"
            alt="Language Distribution"
            width="400" />
     </td>
@@ -303,9 +303,9 @@ markdown## <img src="https://cdn.simpleicons.org/github/355E3B" width="26" heigh
 
 <!-- ACTIVITY BADGES ROW -->
 <p>
-  <img src="https://img.shields.io/github/commit-activity/m/miasmith81/miasmith81?style=for-the-badge&logo=github&logoColor=white&color=355E3B&labelColor=1e1e1e&label=Monthly%20Commits" alt="Monthly Commits" />
-  <img src="https://img.shields.io/github/last-commit/miasmith81/miasmith81?style=for-the-badge&logo=github&logoColor=white&color=355E3B&labelColor=1e1e1e&label=Last%20Commit" alt="Last Commit" />
-  <img src="https://img.shields.io/github/repo-size/miasmith81/miasmith81?style=for-the-badge&logo=github&logoColor=white&color=355E3B&labelColor=1e1e1e" alt="Repo Size" />
+  <img src="https://img.shields.io/github/commit-activity/m/StrayDogSyn/StrayDogSyn?style=for-the-badge&logo=github&logoColor=white&color=355E3B&labelColor=1e1e1e&label=Monthly%20Commits" alt="Monthly Commits" />
+  <img src="https://img.shields.io/github/last-commit/StrayDogSyn/StrayDogSyn?style=for-the-badge&logo=github&logoColor=white&color=355E3B&labelColor=1e1e1e&label=Last%20Commit" alt="Last Commit" />
+  <img src="https://img.shields.io/github/repo-size/StrayDogSyn/StrayDogSyn?style=for-the-badge&logo=github&logoColor=white&color=355E3B&labelColor=1e1e1e" alt="Repo Size" />
 </p>
 
 </div>
@@ -315,7 +315,7 @@ markdown## <img src="https://cdn.simpleicons.org/github/355E3B" width="26" heigh
   <summary align="center"><b>🏆 GitHub Achievement Trophies</b> <sub>(click to expand)</sub></summary>
   <br>
   <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=miasmith81&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"
+    <img src="https://github-profile-trophy.vercel.app/?username=StrayDogSyn&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"
          alt="Profile Trophies"
          width="800" />
     <br>
