@@ -265,7 +265,7 @@ Dynamic application leveraging Open API integration for real-time data retrieval
 
 ---
 
-<img src="https://cdn.simpleicons.org/github/355E3B" width="26" height="26" alt="Analytics" /> GitHub Analytics
+## <img src="https://cdn.simpleicons.org/github/FF69B4" width="26" height="26" alt="Analytics" /> GitHub Analytics
 
 <div align="center">
 
@@ -274,13 +274,13 @@ Dynamic application leveraging Open API integration for real-time data retrieval
   <tr>
     <!-- TOP LEFT: GitHub Stats Card -->
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=miasmith81&show_icons=true&hide_border=true&bg_color=0d1117&title_color=355E3B&text_color=c9d1d9&icon_color=355E3B&include_all_commits=true&count_private=true&custom_title=GitHub%20Statistics"
+      <img src="https://github-readme-stats.vercel.app/api?username=miasmith81&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FF69B4&text_color=c9d1d9&icon_color=FF69B4&include_all_commits=true&count_private=true&custom_title=GitHub%20Statistics"
            alt="GitHub Statistics"
            width="400" />
     </td>
     <!-- TOP RIGHT: Contribution Streak Card -->
     <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=miasmith81&hide_border=true&background=0d1117&stroke=355E3B&ring=355E3B&fire=FF6B35&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=355E3B&sideLabels=355E3B&dates=8b949e"
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=miasmith81&hide_border=true&background=0d1117&stroke=FF69B4&ring=FF69B4&fire=FF6B35&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=FF69B4&sideLabels=FF69B4&dates=8b949e"
            alt="Contribution Streak"
            width="400" />
     </td>
@@ -288,13 +288,13 @@ Dynamic application leveraging Open API integration for real-time data retrieval
   <tr>
     <!-- BOTTOM LEFT: Top Languages Donut Chart -->
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miasmith81&layout=donut&hide_border=true&bg_color=0d1117&title_color=355E3B&text_color=c9d1d9&langs_count=6"
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miasmith81&layout=donut&hide_border=true&bg_color=0d1117&title_color=FF69B4&text_color=c9d1d9&langs_count=6"
            alt="Top Languages by Repository"
            width="400" />
     </td>
     <!-- BOTTOM RIGHT: Language Distribution Compact Bar -->
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miasmith81&layout=compact&hide_border=true&bg_color=0d1117&title_color=355E3B&text_color=c9d1d9&langs_count=8&card_width=400"
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miasmith81&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF69B4&text_color=c9d1d9&langs_count=8&card_width=400"
            alt="Language Distribution"
            width="400" />
     </td>
@@ -303,9 +303,9 @@ Dynamic application leveraging Open API integration for real-time data retrieval
 
 <!-- ACTIVITY BADGES ROW -->
 <p>
-  <img src="https://img.shields.io/github/commit-activity/m/miasmith81/miasmith81?style=for-the-badge&logo=github&logoColor=white&color=355E3B&labelColor=1e1e1e&label=Monthly%20Commits" alt="Monthly Commits" />
-  <img src="https://img.shields.io/github/last-commit/miasmith81/miasmith81?style=for-the-badge&logo=github&logoColor=white&color=355E3B&labelColor=1e1e1e&label=Last%20Commit" alt="Last Commit" />
-  <img src="https://img.shields.io/github/repo-size/miasmith81/miasmith81?style=for-the-badge&logo=github&logoColor=white&color=355E3B&labelColor=1e1e1e" alt="Repo Size" />
+  <img src="https://img.shields.io/github/commit-activity/m/miasmith81/miasmith81?style=for-the-badge&logo=github&logoColor=white&color=FF69B4&labelColor=1e1e1e&label=Monthly%20Commits" alt="Monthly Commits" />
+  <img src="https://img.shields.io/github/last-commit/miasmith81/miasmith81?style=for-the-badge&logo=github&logoColor=white&color=FF69B4&labelColor=1e1e1e&label=Last%20Commit" alt="Last Commit" />
+  <img src="https://img.shields.io/github/repo-size/miasmith81/miasmith81?style=for-the-badge&logo=github&logoColor=white&color=FF69B4&labelColor=1e1e1e" alt="Repo Size" />
 </p>
 
 </div>
