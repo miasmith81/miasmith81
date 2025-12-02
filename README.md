@@ -274,7 +274,7 @@ Dynamic application leveraging Open API integration for real-time data retrieval
   <tr>
     <!-- TOP LEFT: GitHub Stats Card -->
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=miasmith81&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FF69B4&text_color=c9d1d9&icon_color=FF69B4&include_all_commits=true&count_private=true&custom_title=GitHub%20Statistics"
+      <img src="https://github-readme-stats.vercel.app/api?username=miasmith81&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FF69B4&text_color=c9d1d9&icon_color=FF69B4&include_all_commits=true&count_private=true&custom_title=GitHub%20Statistics&cache_seconds=1800"
            alt="GitHub Statistics"
            width="400" />
     </td>
@@ -288,13 +288,13 @@ Dynamic application leveraging Open API integration for real-time data retrieval
   <tr>
     <!-- BOTTOM LEFT: Top Languages Donut Chart -->
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miasmith81&layout=donut&hide_border=true&bg_color=0d1117&title_color=FF69B4&text_color=c9d1d9&langs_count=6"
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miasmith81&layout=donut&hide_border=true&bg_color=0d1117&title_color=FF69B4&text_color=c9d1d9&langs_count=6&cache_seconds=1800"
            alt="Top Languages by Repository"
            width="400" />
     </td>
     <!-- BOTTOM RIGHT: Language Distribution Compact Bar -->
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miasmith81&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF69B4&text_color=c9d1d9&langs_count=8&card_width=400"
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miasmith81&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF69B4&text_color=c9d1d9&langs_count=8&card_width=400&cache_seconds=1800"
            alt="Language Distribution"
            width="400" />
     </td>
