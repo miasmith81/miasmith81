@@ -318,8 +318,6 @@ Dynamic application leveraging Open API integration for real-time data retrieval
     <img src="https://github-profile-trophy.vercel.app/?username=miasmith81&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"
          alt="Profile Trophies"
          width="800" />
-    <br>
-    <sub><i>Trophy images may occasionally be unavailable due to API rate limits.</i></sub>
   </div>
 </details>
 
