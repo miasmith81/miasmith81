@@ -280,9 +280,7 @@ Dynamic application leveraging Open API integration for real-time data retrieval
     </td>
     <!-- TOP RIGHT: Contribution Streak Card -->
     <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=miasmith81&hide_border=true&background=0d1117&stroke=FF69B4&ring=FF69B4&fire=FF6B35&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=FF69B4&sideLabels=FF69B4&dates=8b949e"
-           alt="Contribution Streak"
-           width="400" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miasmith81&theme=github_dark" alt="Contribution Wave Graph" width="100%" />
     </td>
   </tr>
   <tr>
