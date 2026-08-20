@@ -81,7 +81,7 @@ Partner at <strong>StrayDog Syndications LLC</strong> and <strong>The Second Sto
 
 > *"Using AI and technology to create meaningful impact in justice reform while demonstrating technical excellence and building sustainable, ethical solutions."*
 
-**Second Story Initiative** — Technology-driven pathways for justice-impacted individuals
+**The Second Story Initiative Inc** — Technology-driven pathways for justice-impacted individuals
 
 **Combining creativity, technical excellence, and social impact through technology**
 
@@ -356,7 +356,7 @@ Dynamic application leveraging Open API integration for real-time data retrieval
 
 ---
 
-## <img src="https://cdn.simpleicons.org/starship/FF69B4" width="26" height="26" alt="Initiative" /> The Second Story Initiative
+## <img src="https://cdn.simpleicons.org/starship/FF69B4" width="26" height="26" alt="Initiative" /> The Second Story Initiative Inc
 
 <div align="center">
 
@@ -414,7 +414,7 @@ I'm actively seeking roles where I can contribute to building innovative, scalab
 </p>
 
 <p align="center">
-  <strong>© 2025 Mia Smith-Petross | StrayDog Syndications LLC | Second Story Initiative</strong>
+  <strong>© 2025 Mia Smith-Petross | StrayDog Syndications LLC | The Second Story Initiative Inc</strong>
 </p>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-FF69B4.svg?style=flat-square)](https://opensource.org/licenses/MIT)
