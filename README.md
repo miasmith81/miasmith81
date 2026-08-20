@@ -12,7 +12,7 @@
 <h1>Mia Smith-Petross</h1>
 
 <p>
-  <strong>Freelance Software Developer Web Development Consulting</strong> | <strong>Designer</strong> | <strong>Justice Reform Advocate</strong>
+  <strong>Professional Software Developer Web Development Consulting</strong> | <strong>Designer</strong> | <strong>Justice Reform Advocate</strong>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Creating+Beautiful+Web+Experiences;MERN+Stack+Developer;Passionate+About+Social+Impact;Building+the+Future+with+Code)](https://github.com/miasmith81)
@@ -68,7 +68,7 @@ Passionate web developer and designer focused on creating beautiful, functional 
 </p>
 
 <p align="center">
-Partner at <strong>StrayDog Syndications LLC</strong> and the <strong>Second Story Initiative</strong>—leveraging technology to bridge the "Digital Cliff" for justice-impacted individuals.
+Partner at <strong>StrayDog Syndications LLC</strong> and <strong>The Second Story Initiative Inc</strong>—leveraging technology to bridge the "Digital Cliff" for justice-impacted individuals.
 </p>
 
 </div>
