@@ -12,7 +12,7 @@
 <h1>Mia Smith-Petross</h1>
 
 <p>
-  <strong>Professional Software Developer</strong> | Web Development Consulting</strong> | <strong>Designer</strong> | <strong>Justice Reform Advocate</strong>
+  <strong>Professional Software Developer</strong> | <strong>Web Development Consulting</strong> | <strong>Designer</strong> | <strong>Justice Reform Advocate</strong>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Creating+Beautiful+Web+Experiences;MERN+Stack+Developer;Passionate+About+Social+Impact;Building+the+Future+with+Code)](https://github.com/miasmith81)
